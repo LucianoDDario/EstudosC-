@@ -1,0 +1,15 @@
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.sourcelink.json
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\lucia\OneDrive\Documentos\Visual Studio 2022\CSharp\Desafio2\trilha-net-explorando-desafio\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
